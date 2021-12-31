@@ -1,3 +1,3 @@
-// ARRAYS AND METHODS
-document.body.innerHTML = `<h1>Arrays and Methods</h1>`
+// GENERAL LOOPS
+document.body.innerHTML = `<h1>General Loops</h1>`
 
